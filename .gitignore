@@ -1,0 +1,9 @@
+.pyc
+.vs/*
+.DS_Store
+__pycache__/
+db.sqlite3
+*.key
+thumbs.db
+.idea
+/media
